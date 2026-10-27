@@ -3,7 +3,7 @@
 I'm a Computer Engineering graduate with a strong interest in **Backend Development**. I enjoy building APIs, working with databases, and understanding how applications work behind the scenes.
 
 ### 🛠️ Technologies & Tools
-- **Languages:** JavaScript, TypeScript, SQL
+- **Languages:** JavaScript, TypeScript, SQL, Dart, Python, C++
 - **Backend:** Node.js, Express.js, REST APIs
 - **Databases:** PostgreSQL, MySQL
 - **Other Technologies:** Angular, React, Flutter, Git & GitHub
