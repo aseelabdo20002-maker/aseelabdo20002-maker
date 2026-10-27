@@ -18,7 +18,8 @@ Improving my backend development skills, writing better tests, and building reli
 ### 🤝 Open to
 Collaborating on projects, learning from other developers, and exploring backend internship opportunities.
 
-
+### 🏆 Certifications & Achievements
+- Udacity Full Stack Web Developer Nanodegree Graduate — Google Palestine Launchpad
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aseel-abdoo/) 
