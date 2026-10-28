@@ -8,18 +8,15 @@ I'm a Computer Engineering graduate with a strong interest in **Backend Developm
 - **Databases:** PostgreSQL, MySQL
 - **Other Technologies:** Angular, React, Flutter, Git & GitHub
 
-### 🚀 Featured Projects
-- **Store API:** A backend application built with Node.js, Express, TypeScript, and PostgreSQL.
-- **Moomy & Me:** A healthcare platform for pregnant women and new mothers, built with Flutter, Node.js, Express, and MySQL.
+## 🚀 Featured Projects
+- **Moomy & Me:** A healthcare platform for pregnant women and new mothers, built with Flutter, Node.js, Express, and MySQL 📂 Repository: [Mommy&me](https://github.com/aseelabdo20002-maker/moomy-and-me)
+- **Store API:** A backend application built with Node.js, Express, TypeScript, and PostgreSQL  📂 Repository: [Store](https://github.com/aseelabdo20002-maker/backend-store-api)
 
-### 🌱 Currently Learning
-Improving my backend development skills, writing better tests, and building reliable APIs.
 
-### 🤝 Open to
-Collaborating on projects, learning from other developers, and exploring backend internship opportunities.
 
-### 🏆 Certifications & Achievements
+## 🏆 Certifications & Achievements
 - Udacity Full Stack Web Developer Nanodegree Graduate — Google Palestine Launchpad
+- Udacity Intro to Programming Nanodegree Graduate — Google Palestine Launchpad
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aseel-abdoo/) 
