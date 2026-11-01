@@ -18,12 +18,6 @@ I'm a Computer Engineering graduate with a strong interest in **Backend Developm
 📂 **Repository:** [Store](https://github.com/aseelabdo20002-maker/backend-store-api)
 
 
-- **Crash Bash Keeper::** A human-vs-robot gaming system featuring real-time ball detection and tracking using OpenCV, Raspberry Pi, Arduino, C++, and Python. Developed as a two-person graduation project.
-  
-📂 **Repository:** [Crash-Bash-Keeper](https://github.com/aseelabdo20002-maker/crash-bash-bot)
-
-
-
 ## 🏆 Certifications & Achievements
 - Udacity Full Stack Web Developer Nanodegree Graduate — Google Palestine Launchpad
 - Udacity Intro to Programming Nanodegree Graduate — Google Palestine Launchpad
