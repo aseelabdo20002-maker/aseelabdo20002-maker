@@ -6,11 +6,21 @@ I'm a Computer Engineering graduate with a strong interest in **Backend Developm
 - **Languages:** JavaScript, TypeScript, SQL, Dart, Python, C++
 - **Backend:** Node.js, Express.js, REST APIs
 - **Databases:** PostgreSQL, MySQL
-- **Other Technologies:** Angular, React, Flutter, Git & GitHub
+- **Other Technologies:** Angular, React, Flutter, Git & GitHub, Postman, Docker
 
 ## 🚀 Featured Projects
-- **Moomy & Me:** A healthcare platform for pregnant women and new mothers, built with Flutter, Node.js, Express, and MySQL 📂 Repository: [Mommy&me](https://github.com/aseelabdo20002-maker/moomy-and-me)
-- **Store API:** A backend application built with Node.js, Express, TypeScript, and PostgreSQL  📂 Repository: [Store](https://github.com/aseelabdo20002-maker/backend-store-api)
+- **Mommy & Me:** An all-in-one healthcare platform designed to support pregnant women and new mothers through pregnancy tracking, child health management, vaccination schedules, doctor appointments, baby shopping, and educational content. Developed as a two-person graduation project, with my contribution focused on backend development and API integration using Node.js, Express.js, and MySQL.
+
+📂 **Repository:** [Mommy & Me](https://github.com/aseelabdo20002-maker/moomy-and-me)
+
+- **Store API:** A RESTful e-commerce API built with Node.js, Express.js, TypeScript, and PostgreSQL, featuring JWT authentication, product management, CRUD operations, and database migrations. Containerized with Docker. Developed as part of the Udacity Full Stack JavaScript Developer Nanodegree.
+  
+📂 **Repository:** [Store](https://github.com/aseelabdo20002-maker/backend-store-api)
+
+
+- **Crash Bash Keeper::** A human-vs-robot gaming system featuring real-time ball detection and tracking using OpenCV, Raspberry Pi, Arduino, C++, and Python. Developed as a two-person graduation project.
+  
+📂 **Repository:** [Crash-Bash-Keeper](https://github.com/aseelabdo20002-maker/crash-bash-bot)
 
 
 
