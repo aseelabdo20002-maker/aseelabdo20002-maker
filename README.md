@@ -19,7 +19,7 @@ I'm a Computer Engineering graduate with a strong interest in **Backend Developm
 
 
 ## 🏆 Certifications & Achievements
-- **Udacity Full Stack Web Developer Nanodegree Graduate** — Google Palestine Launchpad
+- **Udacity Full Stack JavaScript Developer Graduate** — Google Palestine Launchpad
 - **Udacity Intro to Programming Nanodegree Graduate** — Google Palestine Launchpad
 
 ## 🌐 Socials:
