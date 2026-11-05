@@ -29,5 +29,6 @@ I'm a Computer Engineering graduate with a strong interest in **Backend Developm
 
 
 ## 📊 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aseelabdo20002-maker&layout=compact&hide_border=true&langs_count=6)(https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aseelabdo20002-maker&layout=compact&hide_border=true&langs_count=6)
+maker&layout=compact&hide_border=true&langs_count=6)(https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge)
 
