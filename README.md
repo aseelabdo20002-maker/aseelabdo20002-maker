@@ -31,17 +31,5 @@ I'm a Computer Engineering graduate with a strong interest in **Backend Developm
 ![](https://streak-stats.demolab.com/?user=aseelabdo20002-maker&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aseelabdo20002-maker&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aseelabdo20002-maker&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aseelabdo20002-maker&limit=5&theme=default&combine_all_yearly_contributions=true)
-
 ---
-[![](https://komarev.com/ghpvc/?username=aseelabdo20002-maker&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
