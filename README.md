@@ -2,13 +2,13 @@
 
 I'm a Computer Engineering graduate with a strong interest in **Backend Development**. I enjoy building APIs, working with databases, and understanding how applications work behind the scenes.
 
-### 🛠️ Technologies & Tools
+## ⚙️ Technologies & Tools
 - **Languages:** JavaScript, TypeScript, SQL, Dart, Python, C++, Java
 - **Backend:** Node.js, Express.js, REST APIs
 - **Databases:** PostgreSQL, MySQL
 - **Other Technologies:** Angular, React, Flutter, Git & GitHub, Postman, Docker
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 - **Mommy & Me:** An all-in-one healthcare platform designed to support pregnant women and new mothers through pregnancy tracking, child health management, vaccination schedules, doctor appointments, baby shopping, and educational content. Developed as a two-person graduation project, with my contribution focused on backend development and API integration using Node.js, Express.js, and MySQL.
 
 📂 **Repository:** [Mommy & Me](https://github.com/aseelabdo20002-maker/moomy-and-me)
